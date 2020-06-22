@@ -1,0 +1,82 @@
+.article__content {
+    line-height: 1.8;
+    padding-left: 218px;
+}
+
+.article__content p {
+    margin: 1.3em 0;
+}
+
+.article__content h3 {
+    font-size: 24px;
+    margin: 2em 0 .86em;
+    color: #1c2e36;
+    font-family: "Avenir Next W02",sans-serif;
+    font-weight: 800;
+    line-height: 1.25;
+}
+
+.article__content h2 {
+    font-size: 32px;
+    margin: 2em 0 .86em;
+    color: #1c2e36;
+    font-family: "Avenir Next W02",sans-serif;
+    font-weight: 800;
+    line-height: 1.18;
+}
+
+a {
+    color: #404cfa;
+    cursor: pointer;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.article__content pre, .article__content pre[class*='language-'] {
+    border-left: #1c2e36 solid 4px;
+    margin: 1.3em 0;
+    overflow: auto;
+    padding: 2em 2.5em;
+}
+
+pre[class*="language-"] {
+    padding: 1em;
+    margin: .5em 0;
+    overflow: auto;
+}
+
+pre[class*="language-"] {
+    font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", "Courier New", Courier, monospace;
+    font-size: 14px;
+    line-height: 1.375;
+    direction: ltr;
+    text-align: left;
+    white-space: pre;
+    word-spacing: normal;
+    word-break: normal;
+    -moz-tab-size: 4;
+    -o-tab-size: 4;
+    tab-size: 4;
+    -webkit-hyphens: none;
+    -ms-hyphens: none;
+    hyphens: none;
+    background: #f9f9f9;
+    color: #303030;
+}
+
+.token.attr-value, .token.keyword, .token.control, .token.directive, .token.unit {
+    color: #00C918;
+}
+
+.token.operator, .token.boolean, .token.number {
+    color: #FD8900;
+}
+
+.token.string {
+    color: #1faaaa;
+}
+
+.article__content code[class*='language-'] {
+    line-height: 1.7;
+}
+

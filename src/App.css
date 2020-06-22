@@ -1,0 +1,21 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+address,
+span,
+q {
+  opacity: 0.8;
+  color: #000;
+}
+
+body {
+  overflow:auto;
+}
+
+.page-content {
+  padding: 94px 50px 50px;
+}
