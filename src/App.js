@@ -1,5 +1,5 @@
 import React from "react";
-import { BrowserRouter as Router } from "react-router-dom";
+import { HashRouter as Router } from "react-router-dom";
 
 import { Navigation } from "./components/nav/Navigation";
 import Routes from "./components/Routes";
@@ -7,7 +7,7 @@ import "./App.css";
 
 function App() {
   return (
-    <Router>
+    <Router basename='/'>
       <Navigation
         links={[
           { url: "", title: "About me" },

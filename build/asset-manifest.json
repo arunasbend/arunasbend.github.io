@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5655c8d3.chunk.css",
+    "main.js": "/static/js/main.c8fd4ccb.chunk.js",
+    "main.js.map": "/static/js/main.c8fd4ccb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.c8b434d9.js",
+    "runtime-main.js.map": "/static/js/runtime-main.c8b434d9.js.map",
+    "static/js/2.d50b9600.chunk.js": "/static/js/2.d50b9600.chunk.js",
+    "static/js/2.d50b9600.chunk.js.map": "/static/js/2.d50b9600.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cac9d9073f31436e5a0449569b5d9c02.js": "/precache-manifest.cac9d9073f31436e5a0449569b5d9c02.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5655c8d3.chunk.css.map": "/static/css/main.5655c8d3.chunk.css.map",
+    "static/js/2.d50b9600.chunk.js.LICENSE.txt": "/static/js/2.d50b9600.chunk.js.LICENSE.txt",
+    "static/media/ArunasBendoraitis_CV.pdf": "/static/media/ArunasBendoraitis_CV.0adc98f8.pdf",
+    "static/media/me.jpg": "/static/media/me.ca7ce220.jpg",
+    "static/media/post.md": "/static/media/post.3429a467.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8b434d9.js",
+    "static/js/2.d50b9600.chunk.js",
+    "static/css/main.5655c8d3.chunk.css",
+    "static/js/main.c8fd4ccb.chunk.js"
+  ]
+}
