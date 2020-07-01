@@ -126,10 +126,10 @@ export const store = {
     {
       header: "Can get the job done with",
       items: [
-        { title: "Python", proficiency: 70 },
-        { title: "Go", proficiency: 40 },
-        { title: "Scala", proficiency: 50 },
-        { title: "Angular", proficiency: 60 },
+        { title: "Python", proficiency: 65 },
+        { title: "Go", proficiency: 30 },
+        { title: "Scala", proficiency: 40 },
+        { title: "Angular", proficiency: 50 },
         { title: "Knockout", proficiency: 75 },
       ],
     },
